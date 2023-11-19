@@ -1,0 +1,101 @@
+{
+  "media": {
+    "disableImageZooming": true,
+    "type": {
+      "params": {
+        "decorative": true,
+        "contentName": "Image",
+        "file": {
+          "path": "images/image-0Rj8rmZa.png",
+          "mime": "image/png",
+          "copyright": {
+            "license": "U"
+          },
+          "width": 323,
+          "height": 377
+        }
+      },
+      "library": "H5P.Image 1.1",
+      "metadata": {
+        "contentType": "Image",
+        "license": "U",
+        "title": "Sans titre Image",
+        "authors": [],
+        "changes": []
+      },
+      "subContentId": "fd685424-8d54-47e8-bbbd-434b61bfbb43"
+    }
+  },
+  "answers": [
+    {
+      "correct": true,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "",
+        "notChosenFeedback": ""
+      },
+      "text": "Question 1"
+    },
+    {
+      "correct": false,
+      "tipsAndFeedback": {
+        "tip": "",
+        "chosenFeedback": "",
+        "notChosenFeedback": ""
+      },
+      "text": "Question 2"
+    }
+  ],
+  "overallFeedback": [
+    {
+      "from": 0,
+      "to": 100
+    }
+  ],
+  "behaviour": {
+    "enableRetry": false,
+    "enableSolutionsButton": false,
+    "enableCheckButton": true,
+    "type": "auto",
+    "singlePoint": false,
+    "randomAnswers": true,
+    "showSolutionsRequiresInput": true,
+    "confirmCheckDialog": false,
+    "confirmRetryDialog": false,
+    "autoCheck": false,
+    "passPercentage": 100,
+    "showScorePoints": true
+  },
+  "UI": {
+    "checkAnswerButton": "Vérifier",
+    "submitAnswerButton": "Soumettre",
+    "showSolutionButton": "Afficher la solution",
+    "tryAgainButton": "Recommencer",
+    "tipsLabel": "Afficher les indices",
+    "scoreBarLabel": "You got :num out of :total points",
+    "tipAvailable": "Indice disponible",
+    "feedbackAvailable": "Feedback disponible",
+    "readFeedback": "Lire le commentaire",
+    "wrongAnswer": "Mauvaise réponse",
+    "correctAnswer": "Bonne réponse",
+    "shouldCheck": "Il fallait cocher ici",
+    "shouldNotCheck": "Il ne fallait pas cocher ici !",
+    "noInput": "Répondez s'il vous plait avant de visionner la solution.",
+    "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+    "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+    "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+  },
+  "confirmCheck": {
+    "header": "Terminer ?",
+    "body": "Etes vous sûr de vouloir terminer ?",
+    "cancelLabel": "Annuler",
+    "confirmLabel": "Terminer"
+  },
+  "confirmRetry": {
+    "header": "Recommencer?",
+    "body": "Etes vous sûr de vouloir recommencer ?",
+    "cancelLabel": "Annuler",
+    "confirmLabel": "Confirmer"
+  },
+  "question": "<p>Quelle formule permet de trouver le nombre de lignes avec des températures négatives ?</p>\n"
+}
